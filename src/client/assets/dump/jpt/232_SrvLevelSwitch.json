@@ -1,0 +1,1 @@
+{"pid":3,"data":{"bringIn":2000,"ante":0,"nextLowBet":1500,"switchType":1,"lowBet":1000,"unitsToSwitch":3,"highBet":2000,"level":1,"nextHighBet":3000,"isLevelSwitching":false},"cid":112,"rawBodyBytes":[30,0,0,0,112,48,0,2,232,3,2,208,7,2,208,7,1,0,3,0,0,0,1,0,2,220,5,2,184,11],"name":"SrvLevelSwitch"}

@@ -1,0 +1,1 @@
+{"pid":3,"data":{"finishVO":{"place":1,"beastPoints":5,"realMoneyPrize":200,"canReenter":false,"kickedPlayersCount":0,"totalBountyAwards":{"bothNeeded":true,"compMoney":0,"realMoney":0,"isZero":true,"properties":["bothNeeded","compMoney","realMoney","isZero"]}}},"cid":119,"rawBodyBytes":[16,0,0,0,119,48,1,0,0,0,1,1,5,1,200,0],"name":"SrvTourPlayerFinished"}

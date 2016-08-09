@@ -1,0 +1,1 @@
+{"pid":2,"data":{"pid":2,"cid":2050,"name":"ClGetServerInfo","body":{"subscribeVector":[{"version":0,"subType":3,"gameMasterType":1,"gameType":1,"stringKey":"1#1#3","isValid":true}],"subscribeVectorLength":1,"unsubscribeVectorLength":0,"unsubscribeVector":[]}},"cid":2050,"rawBodyBytes":[12,0,0,0,2,40,1,0,0,0,0,139],"name":"ClGetServerInfo"}

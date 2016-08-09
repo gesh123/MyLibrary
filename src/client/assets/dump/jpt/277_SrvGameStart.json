@@ -1,0 +1,1 @@
+{"pid":1,"data":{"participatingPlayers":[{"seatID":0,"money":67000},{"seatID":1,"money":43000},{"seatID":2,"money":40000}],"gameState":1},"cid":90,"rawBodyBytes":[21,0,0,0,90,16,1,3,0,3,184,5,1,1,2,248,167,2,2,64,156],"name":"SrvGameStart"}

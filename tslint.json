@@ -1,0 +1,100 @@
+{
+	"extends": "tslint:latest",
+	"rules": {
+		"ordered-imports": false,
+		"quotemark": false,
+		"class-name": true,
+		"curly": true,
+		"forin": true,
+		"align": false,
+		"indent": false,
+		"interface-name": [
+			true,
+			"always-prefix"
+		],
+		"member-ordering": [
+			true,
+			"public-before-private",
+			"static-before-instance",
+			"variables-before-functions"
+		],
+		"new-parens": true,
+		"no-bitwise": false,
+		"no-console": [
+			false
+		],
+		"no-conditional-assignment": true,
+		"no-consecutive-blank-lines": false,
+		"no-construct": true,
+		"no-constructor-vars": false,
+		"no-duplicate-key": true,
+		"no-duplicate-variable": true,
+		"no-eval": true,
+		"use-isnan": true,
+		"no-null-keyword": true,
+		"no-internal-module": true,
+		"no-shadowed-variable": true,
+		"no-trailing-whitespace": false,
+		"no-unreachable": true,
+		"no-use-before-declare": true,
+		"no-var-keyword": true,
+		"one-variable-per-declaration": [
+			true,
+			"ignore-for-loop"
+		],
+		"one-line": [
+			false,
+			"check-open-brace"
+		],
+		"semicolon": [
+			true,
+			"always"
+		],
+		"triple-equals": false,
+		"typedef": [
+			false,
+			"parameter",
+			"call-signature",
+			"member-variable-declaration",
+			"property-declaration",
+			"variable-declaration"
+		],
+		"no-inferrable-types": false,
+		"typedef-whitespace": [
+			true,
+			{
+				"call-signature": "nospace",
+				"index-signature": "nospace",
+				"parameter": "nospace",
+				"property-declaration": "nospace",
+				"variable-declaration": "nospace"
+			}
+		],
+		"variable-name": [
+			true,
+			"check-format",
+			"allow-leading-underscore"
+		],
+		"whitespace": [
+			false,
+			"check-branch",
+			"check-decl",
+			"check-module",
+			"check-operator",
+			"check-separator",
+			"check-type",
+			"check-typecast"
+		],
+		"max-line-length": [
+			true,
+			440
+		],
+		"ban": [
+			false
+		],
+		"comment-format": false,
+		"no-empty": false,
+		"object-literal-sort-keys": false,
+		"trailing-comma": false
+	}
+}

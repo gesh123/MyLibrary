@@ -1,0 +1,1 @@
+{"pid":1,"data":{"actionNotifyVO":{"raisesLeft":10,"actionID":262144,"tableMoney":0,"notify":true,"freeMoney":42000,"seatID":2,"cardsCount":0,"actionVerbal":"MUCK_CARDS"}},"cid":81,"rawBodyBytes":[17,0,0,0,81,16,2,1,0,0,4,0,2,16,164,0,10],"name":"SrvUserActionNotify"}

@@ -1,0 +1,1 @@
+{"pid":3,"data":{"winnersVO":{"version":2,"winnersVect":[{"playerNickName":"m1201","prize":200,"recentWinnerID":0}],"tourID":2},"removedWinnersVect":[0]},"cid":233,"rawBodyBytes":[40,0,0,0,233,48,226,216,10,136,2,0,0,0,1,0,109,0,49,0,50,0,48,0,49,0,0,0,1,200,0,0,0,0,1,0,0,0,0,0],"name":"SrvRecentWinners"}

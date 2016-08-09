@@ -1,0 +1,1 @@
+{"pid":3,"data":{"extraMoneyReplay":{"successfulRebuys":0,"requestType":3,"rebuyLeft":0,"unsuccessfulRebuys":0,"reason":1,"conditionInfo":false,"verbalReson":"DONE","verbalRequestType":"INFO"}},"cid":127,"rawBodyBytes":[11,0,0,0,127,48,0,0,1,3,0],"name":"SrvGetExtraMoneyReply"}

@@ -1,0 +1,1 @@
+{"pid":3,"data":{"jptPrizeMultiplierVO":{"buyInMultiplier":2,"endTime":{"highTimeStatus":0,"date":"Wed Jun 15 20:29:42 GMT+0300 2016","isValid":true,"highPart":30525227,"lowPart":2152023808},"currentServerTime":39156}},"cid":218,"rawBodyBytes":[17,0,0,0,218,48,2,0,0,43,199,209,1,0,71,69,128],"name":"SrvStartSelectingBuyInMultiplier"}

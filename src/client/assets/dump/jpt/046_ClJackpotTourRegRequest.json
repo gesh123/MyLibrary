@@ -1,0 +1,1 @@
+{"pid":4,"data":{"pid":4,"cid":2101,"name":"ClJackpotTourRegRequest","body":{"registerJPTVO":{"templateID":2,"count":1,"properties":["templateID","count"]}}},"cid":2101,"rawBodyBytes":[11,0,0,0,53,72,226,216,10,136,1],"name":"ClJackpotTourRegRequest"}

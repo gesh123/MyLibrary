@@ -1,0 +1,1 @@
+{"pid":1,"data":{"playerCashierStatus":[{"letterCode":"b","money":199534},{"letterCode":"d","money":6610}]},"cid":95,"rawBodyBytes":[22,0,0,0,95,16,2,98,0,0,0,3,110,11,3,100,0,0,0,2,210,25],"name":"SrvCashierStatus"}

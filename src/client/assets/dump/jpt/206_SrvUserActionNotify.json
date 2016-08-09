@@ -1,0 +1,1 @@
+{"pid":1,"data":{"actionNotifyVO":{"raisesLeft":10,"actionID":16,"tableMoney":4000,"notify":true,"freeMoney":36000,"seatID":2,"cardsCount":0,"actionVerbal":"CALL"}},"cid":81,"rawBodyBytes":[19,0,0,0,81,16,2,1,16,0,0,0,2,160,140,2,160,15,10],"name":"SrvUserActionNotify"}
